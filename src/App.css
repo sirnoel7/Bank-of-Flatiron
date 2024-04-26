@@ -2,37 +2,49 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.text{
+    text-align: center;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.search{
+   padding: 10px;
+   background-color: antiquewhite;
+   
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.table1{
+     height: 70px;
+     background-color:gainsboro;
 }
 
-.App-link {
-  color: #61dafb;
+.tabletitle{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    background-color:gainsboro;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.category1{
+ 
+  margin: 4px;
+}
+
+.description1{
+ 
+  margin: 1px;
+}
+.date1{
+  
+  margin: 5px;
+}
+
+.amount1{
+  
+  margin: 1px;
+}
+
+.othersearch{
+   background-color:antiquewhite;
+
 }
