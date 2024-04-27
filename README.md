@@ -19,7 +19,7 @@ git clone https://github.com/sirnoel7/Bank-of-Flatiron.git
 ```
 
 # Live Link
-[Git]([[gh-pages link](https://sirnoel7.github.io/project-phase-1/)].
+[Git]([[gh-pages link](https://sirnoel7.github.io/Bank-of-Flatiron/)].
 
 ## Technologies used
 HTML
