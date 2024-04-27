@@ -2,7 +2,7 @@
 
 #### Date, 2024/04/27
 
-#### By *Noel 'The One' Nyakundi*
+#### By *Noel Nyakundi*
 
 ## Description
 This is a mini project that acts as an online banking and finance manager for the Flatiron company, where a user can search all previous transactions with the company as well as add their own
