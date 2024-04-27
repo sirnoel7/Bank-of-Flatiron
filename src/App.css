@@ -1,50 +1,45 @@
+/* App.css */
 .App {
   text-align: center;
 }
 
-.text{
-    text-align: center;
-
+.text {
+  text-align: center;
 }
 
-.search{
-   padding: 10px;
-   background-color: antiquewhite;
-   
+.search {
+  padding: 10px;
+  background-color: antiquewhite;
 }
 
-.table1{
-     height: 70px;
-     background-color:gainsboro;
+.table1 {
+  height: 70px;
+  background-color: gainsboro;
 }
 
-.tabletitle{
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    padding: 15px;
-    background-color:gainsboro;
+.tabletitle {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 15px;
+  background-color: gainsboro;
 }
 
-.category1{
- 
+.category1 {
   margin: 4px;
 }
 
-.description1{
- 
+.description1 {
   margin: 1px;
 }
-.date1{
-  
+
+.date1 {
   margin: 5px;
 }
 
-.amount1{
-  
+.amount1 {
   margin: 1px;
 }
 
-.othersearch{
-   background-color:antiquewhite;
-
+.othersearch {
+  background-color: antiquewhite;
 }
