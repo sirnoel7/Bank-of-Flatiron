@@ -3,7 +3,7 @@ import React, { useState } from "react";
 function Searchbar({ data, setData }) {
   const [searchQuery, setSearchQuery] = useState(""); // this causes the state to store the searchquery as a string
 
-  const handleSearch = (e) => { // Function to handle search input change
+  const handleSearch = (e) => { // this function  handles search input change
     const query = e.target.value.toLowerCase(); //this gets the search query from the input and converts it to lowercase
     setSearchQuery(query); //this updates the state of the search query
 
@@ -13,7 +13,7 @@ function Searchbar({ data, setData }) {
       )
     );
 
-    setData(filteredData); // Update the data with filtered results
+    setData(filteredData); // this updates the data with filtered results
   };
 
   return (
