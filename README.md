@@ -14,7 +14,7 @@ Git(via the app or website)
 
 ### Installation instruction
 ```
-git clone [https://github.com/sirnoel7/project-phase-1.git](https://github.com/sirnoel7/Bank-of-Flatiron.git)
+git clone https://github.com/sirnoel7/Bank-of-Flatiron.git
 
 ```
 
