@@ -31,14 +31,14 @@ function Searchbar({ data, setData }) {
       <input
           style={{ width: "20%", height: "20px" }}
           className="date1"
-          type="text"
+          type="date"
           placeholder="Date"
           aria-label=".form-control-lg example"
         ></input>
         <input
           style={{ width: "20%", height: "20px" }}
           className="description1"
-          type="date"
+          type="text"
           placeholder="Description"
           aria-label="default input example"
         ></input>
