@@ -38,7 +38,7 @@ function Searchbar({ data, setData }) {
         <input
           style={{ width: "20%", height: "20px" }}
           className="description1"
-          type="text"
+          type="date"
           placeholder="Description"
           aria-label="default input example"
         ></input>
